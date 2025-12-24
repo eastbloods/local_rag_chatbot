@@ -1,6 +1,6 @@
-Node.js (v24.12 or higher)
+#Node.js (v24.12 or higher)
 
-#Start the Frontend
+##Start the Frontend
 -cd frontend
 -npm install
 -npm run dev
