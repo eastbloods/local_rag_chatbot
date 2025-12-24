@@ -64,5 +64,5 @@ n8n starts with an empty database. You need to load the project logic (workflows
 -npm run dev
 Open your browser at http://localhost:5173. You are ready to go! 🚀
 
-####🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
