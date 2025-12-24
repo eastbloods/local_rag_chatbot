@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed:
 * **Node.js** (v24.12 or higher)
 * **Git**
 
-### 1. Start the Backend Services
+### 1. Activation
 Clone the repository and start the Docker containers:
 
 ```bash
@@ -64,5 +64,5 @@ n8n starts with an empty database. You need to load the project logic (workflows
 -npm run dev
 Open your browser at http://localhost:5173. You are ready to go! 🚀
 
-🤝 Contributing
+###🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
