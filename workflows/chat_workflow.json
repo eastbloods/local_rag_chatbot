@@ -6,7 +6,7 @@
         "promptType": "define",
         "text": "={{ $json.body.chatInput }}",
         "options": {
-          "systemMessage": "Sen bir asistansın. Kullanıcının sorusunu cevaplamak için MUTLAKA sana verilen 'Vector Store' aracını kullan. Kendi bilgini kullanma. Sadece veritabanından gelen bilgiyi söyle. Cevap dilin soru dili ile aynı olsun."
+          "systemMessage": "You are an assistant. You MUST use the 'Vector Store' tool provided to you to answer the user’s question. Do not use your own knowledge. Only provide information from the database. Ensure that the language of your answer matches that of the question."
         }
       },
       "type": "@n8n/n8n-nodes-langchain.agent",
